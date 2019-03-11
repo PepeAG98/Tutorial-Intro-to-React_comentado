@@ -1,0 +1,744 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reduce"
+			],
+			[
+				"on",
+				"onerror"
+			],
+			[
+				"xhr",
+				"xhr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"numer",
+				"numeros"
+			],
+			[
+				"na",
+				"name2"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"a",
+				"arr2"
+			],
+			[
+				"ar",
+				"arr1"
+			],
+			[
+				"arr",
+				"arr1"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"exp",
+				"explodes"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"expl",
+				"Explode"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"loa",
+				"loaded-info"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ali",
+				"align-end"
+			],
+			[
+				"jus",
+				"justify-end"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"row",
+				"row3"
+			],
+			[
+				"sq",
+				"sql3"
+			],
+			[
+				"P",
+				"PID"
+			],
+			[
+				"cr",
+				"create"
+			],
+			[
+				"va",
+				"varchar"
+			],
+			[
+				"Pr",
+				"PROYECTO"
+			],
+			[
+				"cont",
+				"cont1"
+			],
+			[
+				"con",
+				"cont2"
+			],
+			[
+				"num",
+				"nump"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"cla",
+				"clave2"
+			],
+			[
+				"mat",
+				"matricula"
+			],
+			[
+				"clave",
+				"clavemateria"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"no",
+				"nombre_proveedor"
+			],
+			[
+				"nombre_",
+				"nombre_proveedor"
+			],
+			[
+				"n",
+				"NEW"
+			],
+			[
+				"nom",
+				"nombre_proyecto"
+			],
+			[
+				"nombre",
+				"nombre_proyecto"
+			],
+			[
+				"j",
+				"jid"
+			],
+			[
+				"se",
+				"SELECT"
+			],
+			[
+				"s",
+				"S"
+			],
+			[
+				"ne",
+				"NEW"
+			],
+			[
+				"de",
+				"DECLARE"
+			],
+			[
+				"en",
+				"END"
+			],
+			[
+				"be",
+				"BEGIN"
+			],
+			[
+				"ins",
+				"INSERT"
+			],
+			[
+				"for",
+				"formato"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"req",
+				"requisitos"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"ro",
+				"row2"
+			],
+			[
+				"optat",
+				"OPTATIVA_clave"
+			],
+			[
+				"onm",
+				"onmousemove\tAttr"
+			],
+			[
+				"onmo",
+				"onmousedown\tAttr"
+			],
+			[
+				"onl",
+				"oncanplaythrough\tAttr"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"opci",
+				"opción"
+			],
+			[
+				"SELECT",
+				"SELECT_FORMATO_MATERIA"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"em",
+				"EMP"
+			],
+			[
+				"tabla",
+				"tabla1"
+			],
+			[
+				"conexion",
+				"conexion2"
+			],
+			[
+				"A",
+				"Automovil"
+			],
+			[
+				"par",
+				"parModelo"
+			],
+			[
+				"Add",
+				"AddPage"
+			],
+			[
+				"Set",
+				"SetFont"
+			],
+			[
+				"reea",
+				"real_escape_string"
+			],
+			[
+				"id",
+				"id_email"
+			],
+			[
+				"ID",
+				"id_paper"
+			],
+			[
+				"fe",
+				"FOREIGN"
+			],
+			[
+				"i",
+				"id_email"
+			],
+			[
+				"da",
+				"date_birth"
+			],
+			[
+				"mo",
+				"MOVIE"
+			],
+			[
+				"pri",
+				"PRIMARY"
+			],
+			[
+				"id_",
+				"id_employee"
+			],
+			[
+				"PHPMA",
+				"phpmailer"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"lista",
+				"lista2"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"ses",
+				"session_id"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fig",
+				"figuras2"
+			],
+			[
+				"figurs",
+				"figuras2"
+			],
+			[
+				"figura",
+				"figuras2"
+			],
+			[
+				"fi",
+				"figuras2"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"por",
+				"porreferencia"
+			],
+			[
+				"suma",
+				"sumar"
+			],
+			[
+				"variab",
+				"variable2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jose_/Proyectos/practica/test.json",
+		"/C/Users/jose_/Proyectos/hurry_up/index.html",
+		"/C/Users/jose_/Desktop/myStyle.css",
+		"/C/Users/jose_/AppData/Roaming/Sublime Text 3/Packages/User/javascript compilar.sublime-build",
+		"/C/Users/jose_/Desktop/java.js",
+		"/C/Users/jose_/Desktop/startbootstrap-grayscale-gh-pages/startbootstrap-grayscale-gh-pages/index.html",
+		"/C/Users/jose_/Desktop/Sexto Semestre/Aplicaciones Web/Laboratorio/LAB_1/style.css",
+		"/C/Users/jose_/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublimebuild.sublime-build",
+		"/C/Users/jose_/Desktop/startbootstrap-grayscale-gh-pages/garcia.com/index.html",
+		"/C/Users/jose_/Desktop/startbootstrap-grayscale-gh-pages/alvarado.com/index.html",
+		"/C/Users/jose_/Desktop/startbootstrap-grayscale-gh-pages/pepe.com/index.html",
+		"/C/Users/jose_/Desktop/myFirstXML(1).xml",
+		"/C/wamp64/www/ProyectoBD/Login.html",
+		"/C/Users/jose_/Desktop/LAB_1/lab1.html",
+		"/C/Users/jose_/Desktop/LAB_1/style.css",
+		"/C/wamp64/www/proyecto/base_administacion_de_proyectos.sql",
+		"/C/wamp64/www/proyecto/insertar_matriz2.php",
+		"/C/wamp64/www/proyecto/asignacion_valores.php",
+		"/C/wamp64/www/proyecto/analisis.php",
+		"/C/wamp64/www/proyecto/matriz_decision.php",
+		"/D/Tec de Monterrey/Cuarto Semestre/Base de Datos/BD extendida con triggers.sql",
+		"/C/wamp64/www/proyecto-adp-master/insertar_matriz2.php",
+		"/C/wamp64/www/proyecto-adp-master/insertar_matriz.php",
+		"/C/wamp64/www/proyecto-adp-master/asignacion_valores.php",
+		"/C/wamp64/www/proyecto-adp-master/insertar_proyecto.php",
+		"/C/wamp64/www/proyecto-adp-master/registro_proyectos.php",
+		"/C/wamp64/www/proyecto/insertar_matriz.php",
+		"/C/wamp64/www/proyecto-adp-master/base_administacion_de_proyectos.sql",
+		"/C/wamp64/www/proyecto-adp-master/matriz_decision.php",
+		"/C/Users/jose_/AppData/Local/Temp/Rar$DIa2568.21410/matriz_decision.php",
+		"/D/Tec de Monterrey/Cuarto Semestre/Base de Datos/ejemplo.sql",
+		"/C/wamp64/www/ProyectoBD/Alumno.php",
+		"/C/wamp64/www/ProyectoADP/index.php",
+		"/C/wamp64/www/ProyectoADP/base_administacion_de_proyectos.sql",
+		"/C/wamp64/www/ProyectoADP/insertar_criterio.php",
+		"/C/wamp64/www/ProyectoADP/nuevo-criterio.php",
+		"/C/Users/jose_/AppData/Local/Temp/Rar$DIa14136.4932/nuevo-criterio.php",
+		"/C/Users/jose_/AppData/Local/Temp/Rar$DIa14136.5879/insertar_criterio.php",
+		"/C/Users/jose_/AppData/Local/Temp/Rar$DIa1504.835/insertar_criterio.php",
+		"/C/wamp64/www/CursoPHP/ejemplo_formulario_insertar.html",
+		"/C/wamp64/www/CursoPHP/ejemplo_insertadatos.php",
+		"/C/wamp64/www/ProyectoBD/insertadatos_Optativa.php",
+		"/C/wamp64/www/ProyectoBD/Agregar_materia.php",
+		"/C/wamp64/www/ProyectoBD/elegir_materia.php",
+		"/C/wamp64/www/ProyectoBD/Principal_admin.php",
+		"/C/wamp64/www/ProyectoBD/alumno_editar_alumno.php",
+		"/C/Users/jose_/Desktop/admProyectos/admProyectos/nuevo-criterio.php",
+		"/C/wamp64/www/CursoPHP/ejemplo_insertar.php",
+		"/C/wamp64/www/ProyectoBD/proyecto.sql",
+		"/C/wamp64/www/ProyectoBD/SELECT_FORMATO_MATERIA.php",
+		"/C/wamp64/www/ProyectoBD/actualizar_formato_materias.php",
+		"/C/Users/jose_/Desktop/BD extendida con triggers.sql",
+		"/C/Users/jose_/Desktop/ejemplo.sql",
+		"/C/wamp64/www/ProyectoBD/actualizar_aprobados.php",
+		"/C/wamp64/www/ProyectoBD/autenticacion.php",
+		"/C/wamp64/www/ProyectoBD/Principal_alumno.php",
+		"/C/wamp64/www/ProyectoBD/HISTORIAL_ALUMNO.PHP",
+		"/C/wamp64/www/ProyectoBD/18-02-ProcesaAutenticacion.php",
+		"/C/wamp64/www/ProyectoBD/actualizar_materia_2.php",
+		"/C/wamp64/www/ProyectoBD/inscritos.php",
+		"/C/wamp64/www/ProyectoBD/css/Agregar_materia_style.css",
+		"/C/Users/jose_/Downloads/blob-select-master/demo/index.html",
+		"/C/wamp64/www/ProyectoBD/inserta_datos_alumno.php",
+		"/C/wamp64/www/ProyectoBD/Editar_alumno.php",
+		"/C/wamp64/www/ProyectoBD/style_principal.css",
+		"/C/wamp64/www/ProyectoBD/Editar_materia.php",
+		"/C/wamp64/www/ProyectoBD/Eliminar_materia.php",
+		"/C/wamp64/www/ProyectoBD/actualizar_materia.php",
+		"/C/Users/jose_/Downloads/blob-select-master/src/scss/blobselect.scss",
+		"/C/Users/jose_/Downloads/SELECT_FORMATO_MATERIA (1).php",
+		"/C/wamp64/www/ProyectoBD/Eliminar_alumno.php",
+		"/C/wamp64/www/ProyectoBD/Editando_Alumnos.php",
+		"/C/wamp64/www/ProyectoBD/autenticacion_admin.php",
+		"/C/wamp64/www/ProyectoBD/Editar_perfil.php",
+		"/C/wamp64/www/ProyectoBD/18-05-SalirSistema.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/16-04-FormularioInsertar.html",
+		"/C/wamp64/www/ProyectoBD/eliminar_form.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/16-05-insertadatos.php",
+		"/C/Users/jose_/Downloads/54-sign-up-form/54-sign-up-form/index.html",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/16-06-Actualizando.php",
+		"/C/wamp64/www/ProyectoBD/insertadatos.php",
+		"/C/Users/jose_/Downloads/HISTORIAL_ALUMNO (5).PHP",
+		"/C/Users/jose_/Downloads/table (1).css",
+		"/C/wamp64/www/ProyectoBD/Agregar_alumno.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/16-02-BD-Consultando.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/14-03-FURedirigir.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/20-08-RestringiendoAcceso.php",
+		"/C/wamp64/www/ProyectoBD/Login_admin.html",
+		"/C/Users/jose_/Downloads/54-sign-up-form/54-sign-up-form/css/style.css",
+		"/C/Users/jose_/Downloads/css-transition/index.html",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/18-05-SalirSistema.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/18-02-ProcesaAutenticacion.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/18-01-FormularioAutenticacion.html",
+		"/C/Users/jose_/Downloads/54-sign-up-form/54-sign-up-form/scss/style.scss",
+		"/C/wamp64/www/ProyectoBD/18-04-Principal.php",
+		"/C/wamp64/www/ProyectoBD/ejemplo_insertadatos.php",
+		"/C/wamp64/www/ProyectoBD/index.html",
+		"/C/wamp64/www/Proyecto BD/inserta_datos_alumno.php",
+		"/C/wamp64/www/CursoPHP/ejemplo_eliminando.php",
+		"/C/wamp64/www/Proyecto BD/formulario_alumno.html",
+		"/C/wamp64/www/CursoPHP/ejemplo_clavesMD5.php",
+		"/C/wamp64/www/CursoPHP/18-05-SalirSistema.php",
+		"/C/wamp64/www/CursoPHP/18-04-Principal.php",
+		"/C/wamp64/www/CursoPHP/18-03-ErrorAutenticacion.html",
+		"/C/wamp64/www/CursoPHP/18-02-ProcesaAutenticacion.php",
+		"/C/wamp64/www/CursoPHP/18-01-FormularioAutenticacion.html",
+		"/C/wamp64/www/Proyecto BD/18-02-ProcesaAutenticacion.php",
+		"/C/Users/jose_/Desktop/css/index.css",
+		"/C/Users/jose_/Desktop/index.html",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/16-03-BD-Consultando-Tabla.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/10-05-Arreglos-InsertandoBorrando.php",
+		"/C/wamp64/www/Proyecto BD/Login.html",
+		"/C/Users/jose_/Desktop/Proyecto BD/autenticacion.php",
+		"/C/Users/jose_/Desktop/Proyecto BD/Login.html",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/17-00-ClavesMD5.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/13-01-SesionesCrear.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/10-03-Arreglos-ClavesNoTodos.php",
+		"/C/wamp64/www/CursoPHP/ejemplo_crearsesion.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/login/style.css",
+		"/C/Users/jose_/Downloads/tarea6-02MailOrder.sql",
+		"/C/Users/jose_/Downloads/tarea6-03Movie.sql",
+		"/C/Users/jose_/Downloads/BD extendida(2).sql",
+		"/C/Users/jose_/Downloads/tarea6-04Conference_Review.sql",
+		"/C/Users/jose_/Downloads/tarea6-01votes.sql",
+		"/C/wamp64/www/CursoPHP/login/style.css",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/18-04-Principal.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/bd/Database.singleton.php",
+		"/C/Users/jose_/Desktop/Cuarto Semestre/Base de Datos/Curso_PHP/CursoPHP FebMar18 actualizado/CursoPHP/EjemploCatalogo/css/chosen.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/javascript compilar.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
